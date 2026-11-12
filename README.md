@@ -153,7 +153,7 @@ Hiring peaked in **November 2025 (456 postings)** and stayed broadly stable thro
 
 ### Web Dashboard
 
-🌐 **[Live Dashboard → victoriaest1.github.io/swiss-job-intelligence](https://victoriaest1.github.io/swiss-job-intelligence/)**
+🌐 **[Live Dashboard → victoriaest1.github.io/swiss-job-intelligence](https://victoriaesther.github.io/swiss-job-intelligence/)**
 
 No installation needed — opens directly in the browser. Built with HTML, CSS, and Chart.js, it mirrors all five Tableau views with interactive charts, KPI cards, and a responsive layout that works on desktop and mobile. Data is pre-exported from the dbt marts layer into a single JSON file, keeping the dashboard fully self-contained with no backend required.
 
